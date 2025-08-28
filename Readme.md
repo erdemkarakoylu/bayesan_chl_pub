@@ -14,10 +14,9 @@ This repository demonstrates how the general Bayesian workflow outlined by Betan
 
 ## Repository Contents
 
-- `03_modeling_with_m3_4.ipynb` — Main notebook implementing Models 1–5 (OCx polynomial baseline, hierarchical linear regression, heteroscedastic extensions).  
+- `bayes_workflow_modeling.ipynb` — Main notebook implementing Models 1–5 (OCx polynomial baseline, hierarchical linear regression, heteroscedastic extensions).  
 - `data/` — Placeholder for input data. **Empty in the repo** — users must supply their own data files [here](https://doi.org/10.5281/zenodo.16951518).  
 - `outputs/` — Placeholder for model outputs and diagnostics. **Empty in the repo** — created automatically when running the notebook.  
-- `config.ini` — Optional configuration file for path management.  
 
 ---
 
