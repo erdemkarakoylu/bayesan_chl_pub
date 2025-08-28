@@ -8,7 +8,7 @@ The motivation is simple: the ocean is noisy and complex. Traditional frequentis
 - Quantify both parameter and predictive uncertainty,  
 - Assess calibration and generalization with principled diagnostics.  
 
-This repository propose an adaptation of the Bayesian workflow (see preprint [here](https://doi.org/10.31223/X54J1J)for references) to the marine remote sensing context, where domain constraints and measurement uncertainty impose additional challenges.
+This repository propose an adaptation of the Bayesian workflow (see preprint [here](https://doi.org/10.31223/X54J1J) for references) to the marine remote sensing context, where domain constraints and measurement uncertainty impose additional challenges.
 
 ---
 Content:
