@@ -8,15 +8,16 @@ The motivation is simple: the ocean is noisy and complex. Traditional frequentis
 - Quantify both parameter and predictive uncertainty,  
 - Assess calibration and generalization with principled diagnostics.  
 
-This repository demonstrates how the general Bayesian workflow outlined by Betancourt, Gelman, Hill, and others can be adapted to the marine remote sensing context, where domain constraints and measurement uncertainty impose additional challenges.
+This repository propose an adaptation of the Bayesian workflow (see preprint [here](https://doi.org/10.31223/X54J1J)for references) to the marine remote sensing context, where domain constraints and measurement uncertainty impose additional challenges.
+
+---
+Content:
+
+- `bayes_workflow_modeling.ipynb` — Main notebook implementing Models 1–5 (OCx polynomial baseline, hierarchical linear regression, heteroscedastic extensions).
 
 ---
 
-## Repository Contents
-
-- `bayes_workflow_modeling.ipynb` — Main notebook implementing Models 1–5 (OCx polynomial baseline, hierarchical linear regression, heteroscedastic extensions).  
-- `data/` — Placeholder for input data. **Empty in the repo** — users must supply their own data files [here](https://doi.org/10.5281/zenodo.16951518).  
-- `outputs/` — Placeholder for model outputs and diagnostics. **Empty in the repo** — created automatically when running the notebook.  
+Data used can be found [here](https://doi.org/10.5281/zenodo.16951518). 
 
 ---
 
