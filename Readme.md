@@ -1,6 +1,6 @@
 # Bayesian Chlorophyll Retrieval from Satellite Ocean Color
 
-[![DOI](https://zenodo.org/badge/1045185599.svg)](https://doi.org/10.5281/zenodo.17049034)
+[![DOI](https://zenodo.org/badge/1045185599.svg)](https://doi.org/10.5281/zenodo.17049035)
 
 This project applies a **Bayesian workflow** to the problem of retrieving chlorophyll-*a* concentration from satellite ocean color data.  
 
