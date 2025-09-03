@@ -16,7 +16,7 @@ This repository propose an adaptation of the Bayesian workflow (see preprint [he
 Content:
 
 - `bayes_workflow_modeling.ipynb` — Main notebook implementing Models 1–5 (OCx polynomial baseline, hierarchical linear regression, heteroscedastic extensions).
-
+- `supplements.pdf` - goes into some details for each of the sections of the Bayesian Workflow.
 ---
 
 Data used can be found [here](https://doi.org/10.5281/zenodo.16951518). 
