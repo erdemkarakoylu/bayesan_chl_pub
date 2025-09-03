@@ -1,5 +1,7 @@
 # Bayesian Chlorophyll Retrieval from Satellite Ocean Color
 
+[![DOI](https://zenodo.org/badge/1045185599.svg)](https://doi.org/10.5281/zenodo.17049034)
+
 This project applies a **Bayesian workflow** to the problem of retrieving chlorophyll-*a* concentration from satellite ocean color data.  
 
 The motivation is simple: the ocean is noisy and complex. Traditional frequentist approaches struggle here because they treat sampling probability as inference, ignore background knowledge, and rely on arbitrary conventions. By contrast, Bayesian methods allow us to:  
